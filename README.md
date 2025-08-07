@@ -15,4 +15,4 @@
  - Cohorts were grouped by year of first purchase
  - Analyzed customer retention at cohort level
 
-🖥️ Query : [2_cohort_revenue.sql] (\2_cohort_revenue.sql)
+🖥️ Query : [2_cohort_revenue.sql] (https://github.com/MushyFriedrice/int_sql_project/blob/main/Scripts/2_cohort_revenue.sql)
