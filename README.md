@@ -1,11 +1,10 @@
 # Intermediate SQL - Sales Analysis
 
 ## Overview
-    This project explores customer behavior and business performance using SQL, with a focus on segmentation, cohort analysis, and churn.
-    It breaks down how different customer groups contribute to revenue, how cohorts evolve over time, and whether growth is driven by sustainable retention or         continuous acquisition.
-    Through these analyses, the project uncovers a key business challenge: while customer acquisition has scaled significantly, retention remains consistently         low, limiting long-term revenue potential.
-
-The insights highlight the importance of shifting focus from pure growth to customer lifetime value, retention strategies, and monetization efficiency to drive sustainable business success
+    - This project explores customer behavior and business performance using SQL, with a focus on segmentation, cohort analysis, and churn.
+    - It breaks down how different customer groups contribute to revenue, how cohorts evolve over time, and whether growth is driven by sustainable retention or continuous acquisition.
+    - Through these analyses, the project uncovers a key business challenge: while customer acquisition has scaled significantly, retention remains consistently low, limiting long-term revenue potential.
+    - The insights highlight the importance of shifting focus from pure growth to customer lifetime value, retention strategies, and monetization efficiency to drive sustainable business success
 
 ## Business Questions
     1. **Customer segmentation analysis**
