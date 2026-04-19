@@ -6,7 +6,7 @@
 ## Business Questions
     1. **Customer segmentation analysis**
     2. **Cohort Analysis** : ( How do different customer groups generate revenue)
-    3.
+    3. **Cohort Churn Analysis** : ( The number of repeating customers and non repeating customers yearly) 
 
  ## Analysis approach
  
@@ -75,3 +75,29 @@
   - 2018–2022: Strong acquisition years with high total revenue.  
   - 2024: Drop in both customers & ARPU → focus needed on customer retention and monetization.
 
+🖥️ Query : [3_retention_analysis.sql]
+
+## 📊 Cohort Analysis – Customer Retention
+
+### Findings
+
+- **Customer Retention Trend:**
+  - Across all cohorts (2015–2023), only 8–10% of customers remain active, while 90–92% churn.
+  - Indicates consistently high churn across all years.
+    
+- **Consistency in Churn:**
+  - Churn rates remain stable over time, showing no major improvement despite business growth.
+  - Suggests a systemic retention issue rather than cohort-specific problems.
+
+- **Recent Cohort Improvement:**
+  - Slight increase in active customers in 2022–2023 (~10%) compared to earlier cohorts (~8–9%).
+  -  Indicates minor improvement in retention, but not significant.
+    
+- **Scaling Without Retention Gains:**
+  - Even as total customers increased (e.g., 9,010 in 2022), churn ratio remained nearly unchanged.
+  - Growth is driven primarily by customer acquisition, not retention.
+
+- **Key Insights:**
+  - Majority of customers churn early across all cohorts.
+  - Small improvements in recent years highlight potential for better retention strategies.
+  - Focusing on retention can significantly improve long-term revenue without increasing acquisition costs.
