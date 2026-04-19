@@ -75,7 +75,7 @@
   - 2018–2022: Strong acquisition years with high total revenue.  
   - 2024: Drop in both customers & ARPU → focus needed on customer retention and monetization.
 
-🖥️ Query : [3_retention_analysis.sql]
+🖥️ Query : [3_retention_analysis.sql] (https://github.com/MushyFriedrice/int_sql_project/blob/main/Scripts/3_retention_analysis.sql)
 
 ## 📊 Cohort Analysis – Customer Retention
 
